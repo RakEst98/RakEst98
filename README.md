@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola, soy RakEst 👋
 
+Este repositorio esta creado para albergar la documentacion de un proyecto.
 <!--
 **RakEst98/RakEst98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
